@@ -1,5 +1,10 @@
 % Akash Mitra
 % am132
+%GB comments
+1 90 copy#=1 one solution copy#>1 leads to two stable states. 
+2 100
+overall 95
+
 
 %Inclass 22
 
